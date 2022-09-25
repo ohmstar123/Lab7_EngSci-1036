@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Lab 7">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Task3.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Task2.zip!/" />
+      <root url="jar://$PROJECT_DIR$/opatel22_Lab7.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Task4.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Task1.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
